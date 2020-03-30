@@ -1,0 +1,10 @@
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\bin\Debug\Thomas Greg.exe.config
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\bin\Debug\Thomas Greg.exe
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\bin\Debug\Thomas Greg.pdb
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\obj\Debug\Thomas Greg.csprojAssemblyReference.cache
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\obj\Debug\Thomas_Greg.frmCadastroCliente.resources
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\obj\Debug\Thomas_Greg.Properties.Resources.resources
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\obj\Debug\Thomas Greg.csproj.GenerateResource.cache
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\obj\Debug\Thomas Greg.csproj.CoreCompileInputs.cache
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\obj\Debug\Thomas Greg.exe
+C:\Users\nba_e\Desktop\Thomas Greg\Thomas Greg\obj\Debug\Thomas Greg.pdb
